@@ -1,0 +1,1 @@
+This folder contains results from [Ava Gabrys](https://www.binhe-lab.org/members/ava-gabrys/)'s summer REU project in the lab in 2023. The goal is to replicate the analyses in our 2023 Hil family evolution paper onto the Als family.
